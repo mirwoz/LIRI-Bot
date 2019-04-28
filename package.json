@@ -1,0 +1,25 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "An LIRI that will search Spotify for songs, Bands in Town for concerts, and OMDB for movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirwoz/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirwoz/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/mirwoz/LIRI-Bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
